@@ -1,4 +1,4 @@
-# Slooze take home challenge-!!
+# Slooze take home challenge data-engineering
 ## Inventory, Purchase, Sales Analysis and Optimization
 A retail wine & spirits company, operates across multiple locations and manages millions of transactions related to sales, purchases, and inventory records. Given the high volume of data, traditional spreadsheet-based analysis is inadequate. The company seeks a sophisticated data-driven approach to optimize inventory control and extract valuable business insights.
 
