@@ -2,6 +2,8 @@
 
 ## 🔹 Overview
 This project demonstrates an end-to-end data engineering workflow, including web scraping, data cleaning, exploratory data analysis (EDA), and visualization.
+![Project Banner](assets/architech_dia.png)
+
 ---
 ## 🔧 Tech Stack
 - Python3 (VS Code)
