@@ -1,4 +1,4 @@
-# 📊 IndiaMART Industrial Machinery Data Pipeline
+# 📊 IndiaMART Industrial Machinery Data Pipeline- DE-Project
 
 ## 🔹 Overview
 This project demonstrates an end-to-end data engineering workflow, including web scraping, data cleaning, exploratory data analysis (EDA), and visualization.
