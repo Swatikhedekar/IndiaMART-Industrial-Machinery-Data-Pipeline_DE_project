@@ -1,37 +1,22 @@
-# Slooze take home challenge data-engineering
-## Inventory, Purchase, Sales Analysis and Optimization
-A retail wine & spirits company, operates across multiple locations and manages millions of transactions related to sales, purchases, and inventory records. Given the high volume of data, traditional spreadsheet-based analysis is inadequate. The company seeks a sophisticated data-driven approach to optimize inventory control and extract valuable business insights.
+# 📊 IndiaMART Industrial Machinery Data Pipeline
 
-How can your analysis be leveraged to optimize inventory management, reduce inefficiencies, and extract meaningful insights related to purchase and sales performance.
+## 🔹 Overview
+This project demonstrates an end-to-end data engineering workflow, including web scraping, data cleaning, exploratory data analysis (EDA), and visualization.
+---
+## 🔧 Tech Stack
+- Python3 (VS Code)
+- Playwright (Web Scraping)  
+- Pandas (Data Processing)  
+- Matplotlib & Seaborn (Visualization)  
+- Jupyter Notebook (EDA)  
 
-🎯 Objectives
-- Inventory Optimization → Determine the ideal inventory levels for different product categories.
-- Sales & Purchase Insights → Identify trends, top-performing products, and supplier efficiency.
-- Process Improvement → Optimize procurement and stock control to minimize financial loss.
-  
-🔎 Tasks to be Performed (Any/All)
+---
 
-1️⃣ Demand Forecasting
-- Classify inventory into A (high value), B (moderate), and C (low priority).
-- Prioritize high-value inventory management.
-
-2️⃣ ABC Analysis
-- Classify inventory into A (high value), B (moderate), and C (low priority).
-- Prioritize high-value inventory management.
-
-3️⃣ Economic Order Quantity (EOQ) Analysis
-- Calculate optimal order quantity to minimize ordering & carrying costs.
-- Implement just-in-time inventory practices where feasible.
-
-4️⃣ Reorder Point Analysis
-- Determine reorder points for each product to avoid stockouts.
-- Factor in lead time to ensure continuity.
-
-5️⃣ Lead Time Analysis
-- Optimize supply chain efficiency by assessing material procurement timelines.
-- Reduce waiting periods for production inputs.
-
-## Reference:
-Refer to the dataset provided in this link 
-
-
+## ⚙️ Workflow
+1. Scraped product data from IndiaMART using Playwright  
+2. Stored raw data in JSON format  
+3. Cleaned and transformed data using Pandas  
+4. Performed EDA and created visualizations  
+5. Generated insights and hypotheses  
+---
+## 📁 Project Structure
